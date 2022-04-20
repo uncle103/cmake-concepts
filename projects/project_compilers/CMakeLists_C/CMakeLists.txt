@@ -1,7 +1,7 @@
-#default language 
+#clc language
 
 cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
-# default language *.c as CC
-project(hello-world)
+# specify clc
+project(recipe-01 LANGUAGES C)
 add_executable(hello-world hello-world.c)
 
