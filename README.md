@@ -1,4 +1,4 @@
-# cmake-project
+# cmake-concepts
 1. target: Cmake concepts &amp; Cmake project model
 2. refer : 
  https://cmake.org/documentation/
